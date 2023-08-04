@@ -6,7 +6,7 @@ import Navbar from "./components/navbar/Navbar";
 import Menu from "./components/menu/Menu";
 import Login from "./pages/login/Login";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
-
+import "./styles/global.scss"
 function App() {
   const Layout = () => {
     return (
