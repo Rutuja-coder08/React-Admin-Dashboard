@@ -4,7 +4,7 @@ const Footer = () =>{
     return(
         <div className="footer">
             <span>Rutujaadmin</span>
-            <span>O Rutu Dev Admin Dashboard</span>
+            <span>Rutu Dev Admin Dashboard</span>
         </div>
     )
 }
